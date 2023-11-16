@@ -1,3 +1,3 @@
 # CHS BACON
 
-The "Best All Around Club of Nerds" at Charlottesville High School!
+The website for the "Best All Around Club of Nerds" at Charlottesville High School!
