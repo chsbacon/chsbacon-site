@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'What's Cooking?'
-description: The website for the "Best All Around Club of Nerds" at Charlottesville High School!
+description: The website for the Best All Around Club of Nerds at Charlottesville High School!
 image: assets/images/chs-pig.png
 show_tile: false
 ---
