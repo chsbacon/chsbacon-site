@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Oink Oink?'
+landing-title: 'CHS BACON: The Best'
 description: The website for the *Best All Around Club of Nerds* at Charlottesville High School!
-image: assets/images/chs-pig.pn
+image: assets/images/chs-pig.png
 show_tile: false
 ---
 
